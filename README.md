@@ -17,7 +17,7 @@ A platform for API monetization. Track usage, enforce rate limits, calculate bil
 | Scheduler | node-cron |
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 meterflow/
@@ -86,7 +86,7 @@ meterflow/
     └── package.json
 ```
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```
                          ┌─────────────────┐
@@ -123,7 +123,7 @@ meterflow/
     └───────────────┘
 ```
 
-## ✅ Prerequisites
+## Prerequisites
 
 Install these before running MeterFlow:
 
@@ -135,7 +135,7 @@ brew services start mongodb-community
 brew services start redis
 brew services start rabbitmq
 ```
-## 🔧 Local Setup
+## Local Setup
 
 ### Step 1
 
